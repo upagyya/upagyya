@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 📫 How to reach me **dixitupagyy23@gmail.com**
+- 📫 How to reach me **dixitupagyya23@gmail.com**
 
 - ⚡ Fun fact **I Love to do Sketching and Painting.**
 

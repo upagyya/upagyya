@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Upagyya Dixit</h1>
-<h3 align="center">Prefinal Year Student @HBTU, Kanpur</h3>
+<h3 align="center">Final Year Student @HBTU, Kanpur</h3>
 
 <p align="left"> <a href="https://twitter.com/upagyyad" target="blank"><img src="https://img.shields.io/twitter/follow/upagyyad?logo=twitter&style=for-the-badge" alt="upagyyad" /></a> </p>
 

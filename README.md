@@ -3,13 +3,14 @@
 
 <p align="left"> <a href="https://twitter.com/upagyyad" target="blank"><img src="https://img.shields.io/twitter/follow/upagyyad?logo=twitter&style=for-the-badge" alt="upagyyad" /></a> </p>
 
-- 🔭 I’m currently working on **My Skills**
+- 🔭 I’m currently working on **Android Projects**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Android**
 
 - 📫 How to reach me **dixitupagyya23@gmail.com**
 
 - ⚡ Fun fact **I Love to do Sketching and Painting.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

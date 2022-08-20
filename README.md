@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Upagyya Dixit</h1>
-<h3 align="center">Undergrad @HBTU'22, Kanpur</h3>
+<h3 align="center">Software Engineer at Samsung R&D, Noida</h3>
 
 <p align="left"> <a href="https://twitter.com/upagyyad" target="blank"><img src="https://img.shields.io/twitter/follow/upagyyad?logo=twitter&style=for-the-badge" alt="upagyyad" /></a> </p>
 
 - 🔭 I’m currently working on **Android Projects**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **dixitupagyya23@gmail.com**
 

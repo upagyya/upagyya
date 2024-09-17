@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Upagyya Dixit</h1>
-<h3 align="center">Software Engineer at Samsung R&D, Noida</h3>
+<h3 align="center">Software Engineer at Samsung</h3>
 
 <p align="left"> <a href="https://twitter.com/upagyyad" target="blank"><img src="https://img.shields.io/twitter/follow/upagyyad?logo=twitter&style=for-the-badge" alt="upagyyad" /></a> </p>
 
@@ -9,14 +9,11 @@
 
 - 📫 How to reach me **dixitupagyya23@gmail.com**
 
-- ⚡ Fun fact **I Love to do Sketching and Painting.**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/upagyyad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="upagyyad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/upagyya dixit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="upagyya dixit" height="30" width="40" /></a>
-<a href="https://instagram.com/upagyya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="upagyya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/upagyya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="upagyya" height="30" width="40" /></a>
 </p>
 
